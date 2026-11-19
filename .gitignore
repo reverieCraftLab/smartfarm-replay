@@ -36,3 +36,7 @@ build/
 src/main/resources/application-local.properties
 .env
 .env.*
+
+### Claude Code local ###
+.claude/settings.local.json
+.mcp.json
